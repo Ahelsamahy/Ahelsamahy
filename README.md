@@ -1,11 +1,15 @@
+<h4 align="center">
+  Ahmed Mahfouz — Software Developer & AI Developer
+</h4>
 
-<h5 align="center">
+<p align="center">
+  AI Developer at Careweb and previously at VOIAR, with dual Computer Science and Telecom Engineering backgrounds.
+  Passionate about building scalable AI-powered systems and meaningful digital tools—from healthcare-grade transcription pipelines to real-time robotics.
+</p>
 
-AI Developer at VOIAR, Utrecht. CS BSc from Eszterházy Károly Uni, Hungary (first on class grad) and Telecommunication Eng BSc from Delta Uni, Egypt (top #5 on class).
-
-Passionate about leveraging AI in practical applications, evidenced by projects like Storify (1000+ cross platform mobile downloads [google Play store](https://play.google.com/store/apps/details?id=com.ZenByte.Storify) among other platforms) and AI game achievements. Seeking opportunities to drive innovation.
-
-</h5>
+<p align="center">
+  Creator of <a href="https://play.google.com/store/apps/details?id=com.ZenByte.Storify">Storify - AI Story from an Image</a> and <a href="https://www.thelistimate.com/"> ListiMate - Smart grocery list </a> (1000+ cross-platform downloads). First-class graduate from Eszterházy Károly University (HU) and top-5 in Telecom Engineering at Delta University (EG).
+</p>
 
 ---
 
@@ -13,72 +17,64 @@ Passionate about leveraging AI in practical applications, evidenced by projects 
 
 <h5>
 
-[<img align="left" style="margin-right: 10px;" height="64px" width="64px" alt="VOIAR" src="https://media.licdn.com/dms/image/v2/D4D0BAQELCbqgOm9y3g/company-logo_200_200/company-logo_200_200/0/1723457146087?e=1733961600&v=beta&t=rOBPm_3rhaktuy2oU6m8iLC5bS04_sgRkOfa7qSUpro"/>](https://voiar.ai//)
+### 💼 [Careweb](https://www.careweb.nl) – Software Developer  
 
-<br/>
+<sup>Feb 2024 – Present · Utrecht - Netherlands 🇳🇱</sup>
 
-**AI Developer** - [**VOIAR**](https://voiar.ai//)  
-<sup>Mar 2023 - Present</sup>
+- Designed and implemented an AI-powered transcription and summarization pipeline using Whisper, FastAPI, vLLM, and Weaviate, reducing summarization time by 40% and enabling scalable 30k-token prompt handling.
+- Architected and deployed modular Java/Spring REST microservices as OSGi bundles on Apache Karaf.
+- Migrated legacy JSP interfaces to a modern bilingual (NL/EN) React-based front-end.
+- Built an observability stack using OpenTelemetry, Prometheus, Jaeger, and Grafana for GPU workload monitoring.
 
-<br/>
+### 🤖 VOIAR (MWLC) – AI Developer  
 
-<img align="left" style="margin-right: 10px;" height="64px" width="64px" alt="Buyuk College" src="https://media.licdn.com/dms/image/v2/C4E0BAQENiClQoDpx_Q/company-logo_200_200/company-logo_200_200/0/1631316341430?e=1733961600&v=beta&t=X8_P2k58jviWtfl2B7TSzzHG_agjuctTqjca3Ei9ej0"/>
+<sup>Mar 2023 – Jan 2024 · Utrecht - The Netherlands 🇳🇱</sup>
 
-**Frontend tester** - **IoT Research Institute**
-<br>
-<sup>Apr 2022 - Oct 2022</sup>
+- Developed edge-optimized YOLO vision models with GPU acceleration, cutting inference time from 980ms to 80ms.
+- Contributed to the official open-source [Ultralytics YOLO repo](https://github.com/ultralytics/ultralytics/pull/13100) by adding a TensorRT Docker image for Jetson Nano—boosting inference performance by 43%.
+- Implemented socket-based inter-robot communication protocols (ZMQ, TCP) with 0.0043s latency.
+- Built a mobile-first control interface deployed across multiple screen sizes.
+- Reduced redundant data in a 4M-record MySQL dataset by 75% per training cycle.
 
-<br/>
+### 🧪 IoT Research Institute – Frontend Tester  
+
+<sup>Apr 2022 – Oct 2022 · Budapest - Hungary 🇭🇺</sup>
+
+- Conducted QA testing and validation for frontend modules in IoT-driven platforms.
 
 </h5>
 
-## 👜 Toolkit
+---
+
+## 🛠 Toolkit
 
 <a href="https://github.com/Ahelsamahy">
 
-![python][python-badge]
-![javascript][javascript-badge]
-![nodejs][nodejs-badge]
-![docker][docker-badge]
-![github][github-badge]
-![postman][postman-badge]
-![mssql][mssql-badge]
-![git][git-badge]
-![tailwind][tailwind-badge]
-![nginx][nginx-badge]
-![postgresql][postgresql-badge]
-![php][php-badge]
-![jquery][jquery-badge]
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 </a>
 
-### 💬 Reach Out to Me
+---
 
-[![linkedin][linkedin-badge]](https://www.linkedin.com/in/ahmed-mahfouz-8005a017a/)
-[![mail][mail-badge]](mailto:ahmelsamahy@gmail.com)
-[![website][website-badge]](https://ahmedmahfouz.me/)
+## 📫 Contact
 
-<!--
-Tech Badge References
--->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+](https://www.linkedin.com/in/ahmed-mahfouz-8005a017a/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+](mailto:contact@ahmedmahfouz.me)
+[Website](https://www.ahmedmahfouz.me)  
 
-<!--
-Social Badge References
--->
-
-[docker-badge]: https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
-[git-badge]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-[github-badge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[javascript-badge]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-[jquery-badge]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[mail-badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[mssql-badge]: https://img.shields.io/badge/Mssql-003B57?style=for-the-badge&logo=sqlite&logoColor=white
-[nginx-badge]: https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white
-[nodejs-badge]: https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-[php-badge]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-[postgresql-badge]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-[postman-badge]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
-[python-badge]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-[tailwind-badge]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-[website-badge]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+---
