@@ -19,7 +19,7 @@
 
 ### 💼 [Careweb](https://www.careweb.nl) – Software Developer  
 
-<sup>Feb 2024 – Present · Utrecht - Netherlands 🇳🇱</sup>
+<sup>Nov 2024 – Present · Utrecht - Netherlands 🇳🇱</sup>
 
 - Designed and implemented an AI-powered transcription and summarization pipeline using Whisper, FastAPI, vLLM, and Weaviate, reducing summarization time by 40% and enabling scalable 30k-token prompt handling.
 - Architected and deployed modular Java/Spring REST microservices as OSGi bundles on Apache Karaf.
@@ -28,7 +28,7 @@
 
 ### 🤖 VOIAR (MWLC) – AI Developer  
 
-<sup>Mar 2023 – Jan 2024 · Utrecht - The Netherlands 🇳🇱</sup>
+<sup>Mar 2023 – Nov 2024 · Utrecht - The Netherlands 🇳🇱</sup>
 
 - Developed edge-optimized YOLO vision models with GPU acceleration, cutting inference time from 980ms to 80ms.
 - Contributed to the official open-source [Ultralytics YOLO repo](https://github.com/ultralytics/ultralytics/pull/13100) by adding a TensorRT Docker image for Jetson Nano—boosting inference performance by 43%.
@@ -71,10 +71,10 @@
 
 ## 📫 Contact
 
+📄 **My full resume is available on my [website](https://www.ahmedmahfouz.me).**
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/ahmed-mahfouz-8005a017a/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:contact@ahmedmahfouz.me)
-[Website](https://www.ahmedmahfouz.me)  
-
 ---
