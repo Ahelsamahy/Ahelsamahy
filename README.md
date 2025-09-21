@@ -8,10 +8,8 @@
 </p>
 
 <p align="center">
-  Creator of <a href="https://play.google.com/store/apps/details?id=com.ZenByte.Storify">Storify - AI Story from an Image</a> and <a href="https://www.thelistimate.com/"> ListiMate - Smart grocery list </a> (1000+ cross-platform downloads). First-class graduate from Eszterházy Károly University (HU) and top-5 in Telecom Engineering at Delta University (EG).
+  Creator of <strong><a href="https://www.thestorifyapp.com/">Storify - AI Story from an Image</a></strong> and <strong><a href="https://www.thelistimate.com/">ListiMate - Smart grocery list</a></strong> (1000+ cross-platform downloads). First-class graduate from Eszterházy Károly University (HU) and top-5 in Telecom Engineering at Delta University (EG).
 </p>
-
----
 
 ## 🏢 Work Experience
 
@@ -44,37 +42,47 @@
 
 </h5>
 
----
+## 🛠 Skills & Technologies
 
-## 🛠 Toolkit
-
-<a href="https://github.com/Ahelsamahy">
-
+**Languages**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**Frameworks & Libraries**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Tools & Infrastructure**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </a>
 
----
+## 💻 My Posts
+
+### [Creating a custom docker image for YOLO on Jetson](https://www.ahmedmahfouz.me/articles/YOLO-Docker-Image)
+
+<p style="margin-left: 20px;">
+A minimal Docker image (JetPack 4.x) that uses CUDA 10.2, PyTorch 1.11, and TensorRT 8.2 to cut latency by ~43% and boost FPS by ~72%. It ended up being added to the main codebase of Ultralytics and is used by over 30K users.
+</p>
+
+### [Made My Grocery List App because I didn't like Notes— Just Clean, Simple, Smart Shopping🛒](https://medium.com/@ahmelsamahy/made-my-grocery-list-app-because-i-didnt-like-notes-just-clean-simple-smart-shopping-3cd123be5389)
+
+<p style=" margin-left: 20px;">
+How I turned "just an idea" into a smarter shopping tool
+</p>
 
 ## 📫 Contact
 
 📄 **My full resume is available on my [website](https://www.ahmedmahfouz.me).**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-](https://www.linkedin.com/in/ahmed-mahfouz-8005a017a/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+](https://www.linkedin.com/in/ahmed-mahfouz-8005a017a/)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:contact@ahmedmahfouz.me)
----
