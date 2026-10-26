@@ -1,88 +1,38 @@
-<h4 align="center">
-  Ahmed Mahfouz — Software Developer & AI Developer
-</h4>
+## Ahmed Mahfouz
 
-<p align="center">
-  AI Developer at Careweb and previously at VOIAR, with dual Computer Science and Telecom Engineering backgrounds.
-  Passionate about building scalable AI-powered systems and meaningful digital tools—from healthcare-grade transcription pipelines to real-time robotics.
-</p>
+I build AI products and explain how modern systems actually work. I'm a software developer in Utrecht, the Netherlands.
 
-<p align="center">
-  Creator of <strong><a href="https://www.thestorifyapp.com/">Storify - AI Story from an Image</a></strong> and <strong><a href="https://www.thelistimate.com/">ListiMate - Smart grocery list</a></strong> (1000+ cross-platform downloads). First-class graduate from Eszterházy Károly University (HU) and top-5 in Telecom Engineering at Delta University (EG).
-</p>
+### Now
 
-## 🏢 Work Experience
+**[Careweb](https://www.careweb.nl)** · Software Developer · Nov 2024 to now
 
-<h5>
+I build the AI assistant in Careweb's mental-healthcare software. It turns recorded conversations into draft care notes and appointment suggestions, and the clinician reviews every draft before anything is saved. The work is Python/FastAPI services running Whisper large-v3-turbo and WhisperX transcription, pyannote speaker diarization and LLM drafting served by vLLM on a GPU server, connected to the main Java/OSGi application.
 
-### 💼 [Careweb](https://www.careweb.nl) – Software Developer  
+### Before
 
-<sup>Nov 2024 – Present · Utrecht - Netherlands 🇳🇱</sup>
+**VOIAR** · AI Developer · Mar 2023 to Nov 2024
 
-- Designed and implemented an AI-powered transcription and summarization pipeline using Whisper, FastAPI, vLLM, and Weaviate, reducing summarization time by 40% and enabling scalable 30k-token prompt handling.
-- Architected and deployed modular Java/Spring REST microservices as OSGi bundles on Apache Karaf.
-- Migrated legacy JSP interfaces to a modern bilingual (NL/EN) React-based front-end.
-- Built an observability stack using OpenTelemetry, Prometheus, Jaeger, and Grafana for GPU workload monitoring.
+I built the vision for a person-following forest robot on NVIDIA Jetson.
 
-### 🤖 VOIAR (MWLC) – AI Developer  
+### Open source
 
-<sup>Mar 2023 – Nov 2024 · Utrecht - The Netherlands 🇳🇱</sup>
+- **[A TensorRT Docker image for YOLO on Jetson](https://github.com/ultralytics/ultralytics/pull/13100)**, added to Ultralytics. About 43% lower latency and about 72% more FPS. The Jetson Nano base image it builds on has about 30K pulls on Docker Hub.
+- **[Qwen3-ASR and the Qwen3 ForcedAligner for WhisperX](https://github.com/m-bain/whisperX/pull/1401)**, an open pull request.
 
-- Developed edge-optimized YOLO vision models with GPU acceleration, cutting inference time from 980ms to 80ms.
-- Contributed to the official open-source [Ultralytics YOLO repo](https://github.com/ultralytics/ultralytics/pull/13100) by adding a TensorRT Docker image for Jetson Nano—boosting inference performance by 43%.
-- Implemented socket-based inter-robot communication protocols (ZMQ, TCP) with 0.0043s latency.
-- Built a mobile-first control interface deployed across multiple screen sizes.
-- Reduced redundant data in a 4M-record MySQL dataset by 75% per training cycle.
+### Writing
 
-### 🧪 IoT Research Institute – Frontend Tester  
+- [A TensorRT Docker image for YOLO on Jetson](https://www.ahmedmahfouz.me/articles/YOLO-Docker-Image)
+- [Adding Qwen3-ASR to WhisperX](https://www.ahmedmahfouz.me/articles/whisperx-qwen3-integration)
+- [Survive the line: a game AI with N.E.A.T](https://www.ahmedmahfouz.me/articles/survive-line-timeline)
 
-<sup>Apr 2022 – Oct 2022 · Budapest - Hungary 🇭🇺</sup>
+I also write a newsletter: [ahmedmahfouz.beehiiv.com](https://ahmedmahfouz.beehiiv.com/).
 
-- Conducted QA testing and validation for frontend modules in IoT-driven platforms.
+### My apps
 
-</h5>
+- **[ListiMate](https://www.ahmedmahfouz.me/projects/ListiMate)**, a smart grocery list for iOS and Android.
+- **[Storify](https://www.ahmedmahfouz.me/projects/storify)**, an AI story from a photo, for iOS and Android.
+- **[Couples Questions](https://www.couples-questions.com/)**, a private question game for two, on the web and iOS.
 
-## 🛠 Skills & Technologies
+### Contact
 
-**Languages**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-**Frameworks & Libraries**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Tools & Infrastructure**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</a>
-
-## 💻 My Posts
-
-### [Creating a custom docker image for YOLO on Jetson](https://www.ahmedmahfouz.me/articles/YOLO-Docker-Image)
-
-<p style="margin-left: 20px;">
-A minimal Docker image (JetPack 4.x) that uses CUDA 10.2, PyTorch 1.11, and TensorRT 8.2 to cut latency by ~43% and boost FPS by ~72%. It ended up being added to the main codebase of Ultralytics and is used by over 30K users.
-</p>
-
-### [Made My Grocery List App because I didn't like Notes— Just Clean, Simple, Smart Shopping🛒](https://medium.com/@ahmelsamahy/made-my-grocery-list-app-because-i-didnt-like-notes-just-clean-simple-smart-shopping-3cd123be5389)
-
-<p style=" margin-left: 20px;">
-How I turned "just an idea" into a smarter shopping tool
-</p>
-
-## 📫 Contact
-
-📄 **My full resume is available on my [website](https://www.ahmedmahfouz.me).**
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-](https://www.linkedin.com/in/ahmed-mahfouz-8005a017a/)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-](mailto:contact@ahmedmahfouz.me)
+[Website](https://www.ahmedmahfouz.me) · [CV](https://www.ahmedmahfouz.me/Resume-AhmedMahfouz.pdf) · [LinkedIn](https://www.linkedin.com/in/ahmed-mahfouz-8005a017a/) · [Newsletter](https://ahmedmahfouz.beehiiv.com/) · [contact@ahmedmahfouz.me](mailto:contact@ahmedmahfouz.me)
